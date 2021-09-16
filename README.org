@@ -1,0 +1,8 @@
+#+TITLE:microbit-snake-rs
+
+This is just some fun project, to bring snake onto the micro:bitv2.
+
+*** Problems:
+- [X] Move Snake with limited Input
+- [X] Represent 'Food' with limited Display (blocking and monochrome)
+- [ ] Don't panic at some random location
