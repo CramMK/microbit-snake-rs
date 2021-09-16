@@ -1,0 +1,11 @@
+[default.general]
+chip = "nrf52833"
+
+[default.reset]
+halt_afterwards = false
+
+[default.rtt]
+enabled = true
+
+[default.gdb]
+enabled = false
